@@ -1,0 +1,5 @@
+This is the command-line interface of the Genetic Life form and Disk Operating System (GLaDOS) Copyright $3_%^7* Aperture Science Laboratories. If you can see this, you have stolen and re-digitalized GLaDOS’s data. This is illegal, but we will allow you to keep these files. As long as you don’t disclose any information contained in these file to ANYBODY. - Aperture Science Laboratories
+
+<LEAKED BY BLACK MESA>
+GLaDOS was created using mostly C, Assembly, and GLCS (Genetic Life form Coding System).
+Most of the GLCS files were retrieved by us (Black Mesa) and decompiled using our GLCS decompiler. The only folder here not related to the source code of GLaDOS is GLCS_EXAMPLES, which contains public source code that was displayed upon the announcement of GLCS. The code was written by Aperture. - Black Mesa

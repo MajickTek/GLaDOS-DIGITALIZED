@@ -1,0 +1,15 @@
+>>GLSIM INITIALIZED<<
+<<EXECUTING LOADED PROGRAM “HelloWorld.glcs”>>
+Hello, World!
+
+>>CODE FAILED TO CONTINUE<<
+@libglsim.io.printf(@libglsim.sim.returnLibraryRecursive()) // returns all GLSIM library functions/variables
+^ Not Supported (libglsim.sim.supportedfunc = false)
+@libgl.libio.out.fout(@libgl.liblib.flibout()) // Same thing for this non-user-friendly, but standard, library
+^ Not Supported (libglsim.sim.supportedfunc = false)
+<<ERROR: TOO MANY Not Supported ERRORS! “libglsim.sim.LibNotSupportedException”>>
+<<ERROR: PROGRAM ABRUPTLY HALTED! “libglsim.sim.AbruptHaltException”>>
+
+_____________________________________LOG END______________________________________________
+
+The library was edited here by us, Black Mesa, so that the library functions/variables would not be shown. But now that the compiler/simulator/libraries are gone, we wish we had kept this public.

@@ -1,0 +1,3 @@
+Just compile the source code with C:\Aperture Science\GLCS\glcs.exe source file.gl -o objectfile.glcs . Once you do this, you can test it with the simulator! C:\Aperture Science \GLCSIM\glcsim.exe objectfile.glcs . You NEED the simulator to run the object files.
+
+<REFORMATTED TO TXT BY BLACK MESA>

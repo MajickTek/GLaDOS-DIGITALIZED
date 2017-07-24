@@ -1,0 +1,23 @@
+Copyright (C) Aperture Science !@#$.
+
+Forgotten BrainData from the GLPU (GGenetic Lifeform Processing Unit) was found on a harddrive in Black Mesa.
+This data was found during a raid after the Black Mesa Incident by Aperture.
+Black Mesa had not realised they actually had this data, and after we cancelled their license with ADOS we destroyed the data.
+
+<<RECOVERED FROM APERTURE LECTURE ON BLACK MESA TREACHERY, YEAR !@#$>> -Black Mesa
+
+We found a secret hard drive in Aperture containing this "destroyed" data and copied it over via USB.
+The data is useless now, but it is here anyways:
+
+<<BRAINDATA DUMP, ADOS, YEAR !@#$>>
+16475796984854754u58735495
+@@##@@
+##@@##    BrainMap@999999999
+##@@##    SECTION  999999999
+@@##@@
+
+There was over 9 to the 9th power sections and section IDs, this being the last one.
+Again, it is unusable, but we thought we would include it anyway.
+
+All GLCS code will continue to say that there is no recovered data here, to keep originality.
+-Black Mesa

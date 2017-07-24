@@ -7,3 +7,7 @@ To see what ADOS looked and felt like in recent years, you can log in as our fri
 https://goosh.org/ is what our web interface loooked like.
 An older version of ADOS can be seen on an archive here:
 https://web.archive.org/web/20081218010302/http://www.aperturescience.com/
+At that page, you can log in with our founder Cave Johnson's account and get access to some special programs.
+When you log in with other accounts, you can see some of our notes and even run our APPLY program.
+The APPLY program does not allow you to apply to Aperture anymore.
+We modified it to only keep the super-long quiz.

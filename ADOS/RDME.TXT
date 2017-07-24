@@ -1,3 +1,9 @@
 Aperture Disk Operating System was created by Aperture Science Laboratories, and ran on all Aperture computers (including GLaDOS) for years.
-Black Mesa bought it in $6%7^#$, decompiled it, and made MDOS Black Edition (Mesa DOS Black Edition). Eventually, it was discovered and destroyed by Aperture.
+Black Mesa bought it in $6%7^#$, decompiled it, and made MDOS Black Edition (Mesa DOS Black Edition).
+Eventually, it was discovered and destroyed by Aperture.
 The decompiled source code no longer exists to this day. Aperture’s version still runs, hidden somehow, on GLaDOS.
+
+To see what ADOS looked and felt like in recent years, you can log in as our friend Lutan here: http://glados.lutan.systems/ .
+https://goosh.org/ is what our web interface loooked like.
+An older version of ADOS can be seen on an archive here:
+https://web.archive.org/web/20081218010302/http://www.aperturescience.com/

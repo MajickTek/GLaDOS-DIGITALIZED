@@ -1,0 +1,5 @@
+//Native test for concept hardware (not for the GLCSIM)
+
+$LEDONE = NOTHING //keyword for nothing
+@peripheral.get(0x01, $LEDONE) //peripheral library
+@stdlib.LED.BLINK($LEDONE) //standard library implementation, with extra LED library added

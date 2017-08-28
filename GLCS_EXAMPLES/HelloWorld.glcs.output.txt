@@ -1,5 +1,5 @@
 >>GLSIM INITIALIZED<<
-<<EXECUTING LOADED PROGRAM “HelloWorld.glcs”>>
+<<EXECUTING LOADED PROGRAM “HelloWorld.glpu”>>
 Hello, World!
 
 >>CODE FAILED TO CONTINUE<<

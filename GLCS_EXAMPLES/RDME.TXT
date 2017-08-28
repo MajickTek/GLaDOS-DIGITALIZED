@@ -1,6 +1,6 @@
-Just compile the source code with C:\Aperture Science\GLCS\glcs.exe source file.gl -o objectfile.glcs .
+Just compile the source code with C:\Aperture Science\GLCS\glcs.exe source file.glcs -o objectfile.glpu .
 Once you do this, you can test it with the simulator!
-C:\Aperture Science\GLCSIM\glcsim.exe objectfile.glcs . You NEED the simulator to run the object files.
+C:\Aperture Science\GLCSIM\glcsim.exe objectfile.glpu . You NEED the simulator to run the object files.
 
 We include Batch files for ADOS which allow you to quickly build and run the demos.
 Insied the Batch files, there is also comments which contain useful information on the workings of our tools.

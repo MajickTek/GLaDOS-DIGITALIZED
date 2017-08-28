@@ -2,7 +2,7 @@ REM Run GLCS Simulator.
 REM Emulates the GLPU (Genetic Lifeform Processing Unit) and runs the compiled code on it.
 REM Copyright (C) Aperture (year !@#$)
 
-C:\Aperture Science\GLCSIM\glcsim.exe HelloWorld.glcs --omitperipherals --crashonhardwareentry
+C:\Aperture Science\GLCSIM\glcsim.exe *.glcs --omitperipherals --crashonhardwareentry
 
 REM The parameter "--omitperipherals" makes the simulator ignore requests for hardware access.
 REM This is to stop the emulator form crashing when trying to access  non-existent device.
